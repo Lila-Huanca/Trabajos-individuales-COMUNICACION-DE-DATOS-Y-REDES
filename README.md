@@ -93,7 +93,7 @@ Captura de pantalla:
 
 ### 10. Guarda los cambios y cierra el editor " nano ":
 
-teclas: " Ctrl+O " y " Ctrl+X "
+Teclas: " Ctrl+O " y " Ctrl+X "
 
 Uso:  Para guardar los cambios en el archivo y cerrar el editor nano, debes presionar las teclas Ctrl+O y Ctrl+X.
 
@@ -101,13 +101,26 @@ Captura del teclado:
 
 [![Entrada-1.jpg](https://i.postimg.cc/hjYtDCDC/Entrada-1.jpg)](https://postimg.cc/HcQg3975)
 
-### 10. Guarda los cambios y cierra el editor " nano ":
+### 10. Muestra el contenido del archivo "prueba.txt" nuevamente:
 
-teclas: " Ctrl+O " y " Ctrl+X "
+Comandos: " cat prueba.txt "
 
-Uso:  Para guardar los cambios en el archivo y cerrar el editor nano, debes presionar las teclas Ctrl+O y Ctrl+X.
+Uso: Este comando vuelve a mostrar el contenido del archivo "prueba.txt", que ahora debería contener la línea de texto que escribi anteriormente..
 
 Captura de pantalla:
+
+[![Entrada-2.jpg](https://i.postimg.cc/RVTK9H6j/Entrada-2.jpg)](https://postimg.cc/qzzzxgGL)
+
+### 11. Elimina el archivo "prueba.txt":
+
+Comandos: " rm prueba.txt "
+
+Uso: Se utiliza para eliminar archivos de texto que ya no son necesarios.
+
+Captura de pantalla:
+
+[![Entrada-3.jpg](https://i.postimg.cc/CMGfHqNz/Entrada-3.jpg)](https://postimg.cc/bdvJqd4h)
+
 
 
 
