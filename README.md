@@ -99,6 +99,8 @@ Uso:  Para guardar los cambios en el archivo y cerrar el editor nano, debes pres
 
 Captura del teclado:
 
+[![Entrada-1.jpg](https://i.postimg.cc/hjYtDCDC/Entrada-1.jpg)](https://postimg.cc/HcQg3975)
+
 ### 10. Guarda los cambios y cierra el editor " nano ":
 
 teclas: " Ctrl+O " y " Ctrl+X "
@@ -107,7 +109,7 @@ Uso:  Para guardar los cambios en el archivo y cerrar el editor nano, debes pres
 
 Captura de pantalla:
 
-[![Entrada-1.jpg](https://i.postimg.cc/hjYtDCDC/Entrada-1.jpg)](https://postimg.cc/HcQg3975)
+
 
 
 
