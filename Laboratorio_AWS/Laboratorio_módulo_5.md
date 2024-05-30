@@ -121,6 +121,17 @@ En ACL predefinidas, selecciona Conceder acceso de lectura público.
 
 4.3. Selecciona Habilitar.
 
+![Captura 14654655](https://github.com/Lila-Huanca/Trabajos-individuales-COMUNICACION-DE-DATOS-Y-REDES/assets/166184502/81dc02e5-5696-4d47-b589-6856d549d7b3)
 
+En el cuadro de texto Documento de índice, introduce index.html.
+Selecciona Guardar cambios.
+
+![Captura 3546346612](https://github.com/Lila-Huanca/Trabajos-individuales-COMUNICACION-DE-DATOS-Y-REDES/assets/166184502/616d3f46-7f6a-4273-89c5-e6c627f61cce)
+
+4.4. Desplázate de nuevo hacia abajo hasta la sección Alojamiento de sitios web estáticos y copia la URL del Punto de enlace de sitio web del bucket en el portapapeles.
+
+4.5. Abre una nueva pestaña en el navegador web, pega la URL que acabas de copiar y pulsa Intro. Debería abrirse la página web Hello World. Has alojado correctamente un sitio web estático mediante un bucket de S3.
+
+![Captura 34567](https://github.com/Lila-Huanca/Trabajos-individuales-COMUNICACION-DE-DATOS-Y-REDES/assets/166184502/613abf52-f1fe-4a6f-94e8-a64733504c2e)
 
 
