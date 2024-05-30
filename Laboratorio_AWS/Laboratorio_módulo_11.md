@@ -74,3 +74,6 @@ En la pestaña Detalles, copia la Dirección IPv4 pública de tu instancia, a co
 ## Tarea 5. Crear un balanceador de carga
 
 ![Captura de pantalla 2024-05-30 131351](https://github.com/Lila-Huanca/Trabajos-individuales-COMUNICACION-DE-DATOS-Y-REDES/assets/166184502/2754d2be-1a9c-4015-85a1-8ef272b95925)
+
+
+![Captura de pantalla 2024-05-30 131537](https://github.com/Lila-Huanca/Trabajos-individuales-COMUNICACION-DE-DATOS-Y-REDES/assets/166184502/031f34c5-b9da-4ec0-b301-741c52ac9647)
