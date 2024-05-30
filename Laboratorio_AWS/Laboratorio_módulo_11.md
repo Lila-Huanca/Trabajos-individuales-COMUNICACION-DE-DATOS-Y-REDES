@@ -41,6 +41,23 @@ Nota: Si no aparece la página web, asegúrate de estar accediendo a la página 
 
 ![Captura de pantalla 2024-05-30 123438](https://github.com/Lila-Huanca/Trabajos-individuales-COMUNICACION-DE-DATOS-Y-REDES/assets/166184502/9bb1ddee-2d14-4902-8a15-a355f6c801b0)
 
+## Tarea 3. Crear una segunda instancia de EC2 para el balanceo de carga
 
+3.1. Selecciona la instancia Web Server 1.
+
+En el menú Acciones, selecciona Imágenes y plantillas y después selecciona Lanzar más como esta
+![Captura de pantalla 2024-05-30 124836](https://github.com/Lila-Huanca/Trabajos-individuales-COMUNICACION-DE-DATOS-Y-REDES/assets/166184502/11d03d04-b8e3-4c8c-a432-1fca2fbb981c)
+
+3.2. Panel Nombre y etiquetas, cambia el nombre a Web Server 2.
+
+![Captura de pantalla 2024-05-30 125118](https://github.com/Lila-Huanca/Trabajos-individuales-COMUNICACION-DE-DATOS-Y-REDES/assets/166184502/97efb0ff-ff5e-4252-b95d-d4ae7f19b5be)
+
+3.3. En la sección Par de claves (inicio de sesión), en la lista desplegable Nombre del par de claves - obligatorio, selecciona vockey.
+
+![Captura de pantalla 2024-05-30 125716](https://github.com/Lila-Huanca/Trabajos-individuales-COMUNICACION-DE-DATOS-Y-REDES/assets/166184502/95c047c8-a911-43a9-9689-6359677f4067)
+
+3.4. En la lista desplegable Subred, selecciona la subred existente en la Zona de disponibilidad us-east-1b.
+
+![Captura de pantalla 2024-05-30 130258](https://github.com/Lila-Huanca/Trabajos-individuales-COMUNICACION-DE-DATOS-Y-REDES/assets/166184502/0e1c5a0b-7717-4f2a-b39f-d1b8e23565b4)
 
 
