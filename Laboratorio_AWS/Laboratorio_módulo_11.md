@@ -20,3 +20,13 @@ Sigue estos pasos para crear y configurar un balanceador de carga, registrar una
 En Nombre, introduce "Web Server 1".
 
 ![Captura de pantalla 2024-05-29 15134578](https://github.com/Lila-Huanca/Trabajos-individuales-COMUNICACION-DE-DATOS-Y-REDES/assets/166184502/6e4bf162-2a70-481d-abd9-f8b5dc6b3956)
+
+Antes de continuar, espera a que la instancia muestre lo siguiente:
+
+1.5.1. Estado de la instancia:  En ejecución
+Comprobación de estado:  2/2 comprobaciones superadas
+Sugerencia: Para actualizar la información de la instancia, selecciona el icono de actualización .
+
+![Captura de pantalla 2024-05-30 122859](https://github.com/Lila-Huanca/Trabajos-individuales-COMUNICACION-DE-DATOS-Y-REDES/assets/166184502/a88a83c7-ff4f-4087-888d-c8539fe4ee5b)
+
+
