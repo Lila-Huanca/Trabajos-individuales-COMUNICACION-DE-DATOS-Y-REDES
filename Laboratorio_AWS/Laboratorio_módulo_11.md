@@ -60,4 +60,17 @@ En el menú Acciones, selecciona Imágenes y plantillas y después selecciona La
 
 ![Captura de pantalla 2024-05-30 130258](https://github.com/Lila-Huanca/Trabajos-individuales-COMUNICACION-DE-DATOS-Y-REDES/assets/166184502/0e1c5a0b-7717-4f2a-b39f-d1b8e23565b4)
 
+3.5. Selecciona Lanzar instancia.
+![Captura de pantalla 2024-05-30 130551](https://github.com/Lila-Huanca/Trabajos-individuales-COMUNICACION-DE-DATOS-Y-REDES/assets/166184502/563f9f8c-b5c3-4e07-b66a-c37933ccefe2)
 
+## Tarea 4. Acceder al sitio web en la segunda instancia de EC2
+Selecciona la instancia Web Server 2.
+En la pestaña Detalles, copia la Dirección IPv4 pública de tu instancia, a continuación abre una nueva pestaña en tu navegador web y pega y carga la dirección.
+
+![Captura de pantalla 2024-05-30 131003](https://github.com/Lila-Huanca/Trabajos-individuales-COMUNICACION-DE-DATOS-Y-REDES/assets/166184502/59ef2320-fe7d-4cc1-b1bf-3bddfa7cad5f)
+
+![Captura de pantalla 2024-05-30 130944](https://github.com/Lila-Huanca/Trabajos-individuales-COMUNICACION-DE-DATOS-Y-REDES/assets/166184502/9359cd15-9e00-440d-9611-d50eaecc3492)
+
+## Tarea 5. Crear un balanceador de carga
+
+![Captura de pantalla 2024-05-30 131351](https://github.com/Lila-Huanca/Trabajos-individuales-COMUNICACION-DE-DATOS-Y-REDES/assets/166184502/2754d2be-1a9c-4015-85a1-8ef272b95925)
