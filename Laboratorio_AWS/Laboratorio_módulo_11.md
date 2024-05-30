@@ -29,4 +29,18 @@ Sugerencia: Para actualizar la información de la instancia, selecciona el icono
 
 ![Captura de pantalla 2024-05-30 122859](https://github.com/Lila-Huanca/Trabajos-individuales-COMUNICACION-DE-DATOS-Y-REDES/assets/166184502/a88a83c7-ff4f-4087-888d-c8539fe4ee5b)
 
+## Tarea 2. Acceder al sitio web de la instancia de EC2
+
+1.5.2. En la pestaña Detalles, copia la Dirección IPv4 pública de tu instancia, a continuación abre una nueva pestaña en tu navegador web y pega y carga la dirección.
+
+![Captura de pantalla 2024-05-30 123314](https://github.com/Lila-Huanca/Trabajos-individuales-COMUNICACION-DE-DATOS-Y-REDES/assets/166184502/0f6c9fc2-e0e0-467a-8aac-4bb4963e0e31)
+
+Debería mostrar la página del servidor web con el mensaje Hello World! This is server 1.
+
+Nota: Si no aparece la página web, asegúrate de estar accediendo a la página con http:// (y no con https://).
+
+![Captura de pantalla 2024-05-30 123438](https://github.com/Lila-Huanca/Trabajos-individuales-COMUNICACION-DE-DATOS-Y-REDES/assets/166184502/9bb1ddee-2d14-4902-8a15-a355f6c801b0)
+
+
+
 
