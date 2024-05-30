@@ -100,4 +100,27 @@ Arrastra y suelta el archivo index.html en la página de carga. También puedes 
 3.1. Expande la sección Permisos.
 En ACL predefinidas, selecciona Conceder acceso de lectura público.
 
+![Captura 78956789](https://github.com/Lila-Huanca/Trabajos-individuales-COMUNICACION-DE-DATOS-Y-REDES/assets/166184502/78c976e2-aed2-4d4f-a75a-ed1448c2a988)
+
+3.2. Debajo de la configuración seleccionada aparece un mensaje parecido a este: No se recomienda otorgar acceso de lectura público.
+
+3.3. Marca la casilla que aparece junto a Entiendo que debajo del mensaje de advertencia.
+
+3.4. En la parte inferior de la página, selecciona Cargar.
+
+3.5. Selecciona "Cerrar".
+
+3.6. El archivo index.html aparece en la lista Objetos.
+
+![Captura 12425](https://github.com/Lila-Huanca/Trabajos-individuales-COMUNICACION-DE-DATOS-Y-REDES/assets/166184502/3881865c-1cea-44ef-9bda-941c53f2de62)
+
+## Tarea 4. Probar el sitio web
+4.1. Selecciona la pestaña Propiedades y desplázate a la sección Alojamiento de sitios web estáticos.
+
+4.2. Selecciona Editar.
+
+4.3. Selecciona Habilitar.
+
+
+
 
