@@ -13,11 +13,25 @@ Crear un Usuario IAM: Haz clic en "Usuarios" en el panel de navegación izquierd
 ![Captura de pantalla 2024-06-05 182737](https://github.com/Lila-Huanca/Trabajos-individuales-COMUNICACION-DE-DATOS-Y-REDES/assets/166184502/33971303-5f60-4189-8fa9-04d70192f760)
 
 
+### **Modo empresarial**
+
+|**Usuario**|**En el grupo**|**Permisos**|
+| :- | :- | :- |
+|**user-1**|**S3-Support**|**Acceso de solo lectura a Amazon S3**|
+|**user-2**|**EC2-Support**|**Acceso de solo lectura a Amazon EC2**|
+|**user-3**|**EC2-Admin**|**Ver, iniciar y detener instancias de Amazon EC2**|
+
+
  Despues poner crear usuario,Añadir directamente las políticas existentes, crear, añadir politicas  Busca AdministratorAccess y selecciona la política, luego selecciona Siguiente: Etiquetas. Añadir usuario.  ID de clave de acceso y Clave de acceso secreta.
+
+ ### **Probar permisos de user-1**
+
+- En el panel de navegación de la izquierda, selecciona **Panel**.
+- Inicia sesión con las siguientes credenciales:
+  - **Nombre de usuario de IAM:** user-1
+  - **Contraseña:** Lab-Password1
  
 ![Captura de pantalla 2024-06-05 182437](https://github.com/Lila-Huanca/Trabajos-individuales-COMUNICACION-DE-DATOS-Y-REDES/assets/166184502/f35cc8f7-65ee-4358-996f-0fdd05dac6e5)
-
-
 
 
 ## Grupos IAM
@@ -27,22 +41,6 @@ Beneficios de los Grupos IAM: Los grupos IAM simplifican la administración de p
 
 En resumen, la creación y gestión de grupos IAM te permite organizar a tus usuarios y asignar permisos de manera eficiente, lo que facilita la administración de accesos y la aplicación de políticas de seguridad en AWS.
 
-## Grupos:
-
-|**Concepto**|**Definición**|
-| :- | :- |
-|**AWS Identity and Access Management [IAM]**|Aplica controles para usuarios que necesitan acceder a recursos informáticos.|
-|**Rol**|Identidad de IAM con permisos específicos.|
-|**Usuario**|Entidad creada en AWS para representar a personas o aplicaciones que interactúan con AWS. Compuesto por nombre y credenciales.|
-|**Grupo de seguridad**|Actúa como firewall virtual para controlar tráfico entrante y saliente en instancias.|
-|**Política**|Objeto de AWS que define permisos cuando se asocia a una identidad o recurso. Evaluada por AWS en solicitudes de entidades principales.|
-|**Amazon Inspector**|Es la ayuda a identificar vulnerabilidades de seguridad y desviaciones de prácticas recomendadas en aplicaciones antes y durante la ejecución.|
-|**Grupo de IAM**|Conjunto de usuarios de IAM con permisos específicos. Facilita la administración de permisos.|
-|**Usuario raíz**|Identidad inicial con acceso total a todos los servicios y recursos de AWS al crear una cuenta.|
-|**Credencial**|Verifica la identidad del usuario y su permiso para acceder a recursos solicitados.|
-|**Habilitación de Multi-Factor Authentication (MFA)**|Requiere autenticación con dos o más métodos independientes.|
-|**Notación de objetos JavaScript [JSON]**|Es el sintaxis para almacenar e intercambiar datos.|
-|**Multi-Factor Authentication [MFA]**|Es un sistema de seguridad que verifica la identidad mediante múltiples métodos independientes.|
 
 ## Code: 
 
