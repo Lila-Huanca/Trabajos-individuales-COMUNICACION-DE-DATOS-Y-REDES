@@ -13,7 +13,7 @@ Crear un Usuario IAM: Haz clic en "Usuarios" en el panel de navegación izquierd
 ![Captura de pantalla 2024-06-05 165952](https://github.com/Lila-Huanca/Trabajos-individuales-COMUNICACION-DE-DATOS-Y-REDES/assets/166184502/e7ba6052-30ce-417c-bce3-f803e2db0233)
  Despues poner crear usuario,Añadir directamente las políticas existentes, crear, añadir politicas  Busca AdministratorAccess y selecciona la política, luego selecciona Siguiente: Etiquetas. Añadir usuario.  ID de clave de acceso y Clave de acceso secreta.
  
-![Captura de pantalla 2024-06-05 172526](https://github.com/Lila-Huanca/Trabajos-individuales-COMUNICACION-DE-DATOS-Y-REDES/assets/166184502/a7a538ce-f2a4-4938-afd9-64d5e78dc2da)
+![Captura de pantalla 2024-06-05 181042](https://github.com/Lila-Huanca/Trabajos-individuales-COMUNICACION-DE-DATOS-Y-REDES/assets/166184502/8b498252-f7d6-4c6c-b2cc-16c5f713e7ea)
 
 
 ## Grupos IAM
