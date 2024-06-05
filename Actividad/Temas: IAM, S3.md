@@ -42,8 +42,22 @@ En resumen, la creación y gestión de grupos IAM te permite organizar a tus usu
 
 ## Code: 
 
+- Gestión de objetos en un Bucket.
+- Permisos de acceso
+- Simula el manejo de permisos mediante un diccionario de permisos
+
 ```
-efsg
+class S3BucketWithPermissions(S3Bucket):
+ def __init__(self):
+ super().__init__()
+ self.permissions = {}
+ def set_permission(self, bucket, key, permission):
+ if bucket not in self.permissions:
+ self.permissions[bucket] = {}
+ self.permissions[bucket][key] = permission
+
+ def check_permission(self, bucket, key, action):
+ return self.permissions.get(bucket, {}).get(key) == action
 
 ```
 
