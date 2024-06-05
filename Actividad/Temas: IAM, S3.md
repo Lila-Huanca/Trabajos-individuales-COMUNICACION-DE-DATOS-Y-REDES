@@ -10,10 +10,14 @@ Acceso al Panel de IAM: Inicia sesión en la Consola de AWS y navega hasta el se
 
 Crear un Usuario IAM: Haz clic en "Usuarios" en el panel de navegación izquierdo y luego en "Agregar usuario". Ingresa el nombre del usuario y selecciona el tipo de acceso (consola, programático o ambos).
 
-![Captura de pantalla 2024-06-05 165952](https://github.com/Lila-Huanca/Trabajos-individuales-COMUNICACION-DE-DATOS-Y-REDES/assets/166184502/e7ba6052-30ce-417c-bce3-f803e2db0233)
+![Captura de pantalla 2024-06-05 182737](https://github.com/Lila-Huanca/Trabajos-individuales-COMUNICACION-DE-DATOS-Y-REDES/assets/166184502/33971303-5f60-4189-8fa9-04d70192f760)
+
+
  Despues poner crear usuario,Añadir directamente las políticas existentes, crear, añadir politicas  Busca AdministratorAccess y selecciona la política, luego selecciona Siguiente: Etiquetas. Añadir usuario.  ID de clave de acceso y Clave de acceso secreta.
  
-![Captura de pantalla 2024-06-05 181042](https://github.com/Lila-Huanca/Trabajos-individuales-COMUNICACION-DE-DATOS-Y-REDES/assets/166184502/8b498252-f7d6-4c6c-b2cc-16c5f713e7ea)
+![Captura de pantalla 2024-06-05 182437](https://github.com/Lila-Huanca/Trabajos-individuales-COMUNICACION-DE-DATOS-Y-REDES/assets/166184502/f35cc8f7-65ee-4358-996f-0fdd05dac6e5)
+
+
 
 
 ## Grupos IAM
