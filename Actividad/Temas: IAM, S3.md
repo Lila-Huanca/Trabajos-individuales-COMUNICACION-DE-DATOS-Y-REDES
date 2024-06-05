@@ -23,5 +23,29 @@ Beneficios de los Grupos IAM: Los grupos IAM simplifican la administración de p
 
 En resumen, la creación y gestión de grupos IAM te permite organizar a tus usuarios y asignar permisos de manera eficiente, lo que facilita la administración de accesos y la aplicación de políticas de seguridad en AWS.
 
+## Grupos:
+
+|**Concepto**|**Definición**|
+| :- | :- |
+|**AWS Identity and Access Management [IAM]**|Aplica controles para usuarios que necesitan acceder a recursos informáticos.|
+|**Rol**|Identidad de IAM con permisos específicos.|
+|**Usuario**|Entidad creada en AWS para representar a personas o aplicaciones que interactúan con AWS. Compuesto por nombre y credenciales.|
+|**Grupo de seguridad**|Actúa como firewall virtual para controlar tráfico entrante y saliente en instancias.|
+|**Política**|Objeto de AWS que define permisos cuando se asocia a una identidad o recurso. Evaluada por AWS en solicitudes de entidades principales.|
+|**Amazon Inspector**|Es la ayuda a identificar vulnerabilidades de seguridad y desviaciones de prácticas recomendadas en aplicaciones antes y durante la ejecución.|
+|**Grupo de IAM**|Conjunto de usuarios de IAM con permisos específicos. Facilita la administración de permisos.|
+|**Usuario raíz**|Identidad inicial con acceso total a todos los servicios y recursos de AWS al crear una cuenta.|
+|**Credencial**|Verifica la identidad del usuario y su permiso para acceder a recursos solicitados.|
+|**Habilitación de Multi-Factor Authentication (MFA)**|Requiere autenticación con dos o más métodos independientes.|
+|**Notación de objetos JavaScript [JSON]**|Es el sintaxis para almacenar e intercambiar datos.|
+|**Multi-Factor Authentication [MFA]**|Es un sistema de seguridad que verifica la identidad mediante múltiples métodos independientes.|
+
 ## Code: 
+
+```
+efsg
+
+```
+
+
 
