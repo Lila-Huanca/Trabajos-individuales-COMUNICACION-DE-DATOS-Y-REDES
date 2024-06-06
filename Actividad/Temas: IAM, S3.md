@@ -13,6 +13,8 @@ Crear un Usuario IAM: Haz clic en "Usuarios" en el panel de navegación izquierd
 ![Captura de pantalla 2024-06-05 182737](https://github.com/Lila-Huanca/Trabajos-individuales-COMUNICACION-DE-DATOS-Y-REDES/assets/166184502/33971303-5f60-4189-8fa9-04d70192f760)
 
 
+![Captura desde 2024-06-06 11-19-15](https://github.com/Lila-Huanca/Trabajos-individuales-COMUNICACION-DE-DATOS-Y-REDES/assets/166184502/dc8eccf8-2693-4daa-b9ca-eaa2ce4da070)
+
 ### **Modo empresarial**
 
 |**Usuario**|**En el grupo**|**Permisos**|
