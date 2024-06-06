@@ -32,9 +32,6 @@ Crear un Usuario IAM: Haz clic en "Usuarios" en el panel de navegación izquierd
 - Inicia sesión con las siguientes credenciales:
   - **Nombre de usuario de IAM:** user-1
   - **Contraseña:** Lab-Password1
- 
-![Captura de pantalla 2024-06-05 182437](https://github.com/Lila-Huanca/Trabajos-individuales-COMUNICACION-DE-DATOS-Y-REDES/assets/166184502/f35cc8f7-65ee-4358-996f-0fdd05dac6e5)
-
 
 ## Grupos IAM
 ## Pregunta: Describe cómo crear y gestionar grupos IAM, y cómo se pueden utilizar para simplificar la administración de permisos
