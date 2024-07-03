@@ -1,4 +1,3 @@
-pip install boto3
 import boto3
 import json
 import logging
