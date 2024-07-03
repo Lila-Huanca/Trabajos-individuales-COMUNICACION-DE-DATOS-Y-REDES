@@ -15,3 +15,5 @@ La seguridad en la nube es una responsabilidad compartida entre AWS y el cliente
 - **Capa de Red:** Proteger el acceso a la red con firewalls y VPNs.
 - **Capa de Aplicación:** Validar entradas, proteger contra ataques como XSS y SQL Injection.
 - **Capa de Datos:** Encriptar datos y gestionar el acceso con políticas de IAM.
+## Extensiones posibles<.
+Ejercicio 1.............................................   pip install boto3
